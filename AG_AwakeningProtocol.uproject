@@ -5,22 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "GameplayInsights",
-			"Enabled": true
-		},
-		{
 			"Name": "RawInput",
-			"Enabled": true
-		},
-		{
-			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
 		}
 	]
