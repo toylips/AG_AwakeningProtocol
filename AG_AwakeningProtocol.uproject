@@ -15,6 +15,10 @@
 		{
 			"Name": "ChaosModularVehicle",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
